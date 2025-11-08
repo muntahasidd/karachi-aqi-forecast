@@ -25,7 +25,7 @@ jobs:
 
       - name: Run pipeline
         run: |
-          python pipeline.py
+          python pipeline(2).py
 
 
 
