@@ -1,17 +1,11 @@
-# Data processing
+requests
 pandas
 numpy
-scikit-learn
-
-# API requests
-requests
-
-# Plotting
+scikit-learn==1.6.1
 matplotlib
+hopsworks[python]
+pyarrow
 
-# HopsWorks & Kafka
-hopsworks
-confluent-kafka
 
 # Optional: for datetime handling
 python-dateutil
