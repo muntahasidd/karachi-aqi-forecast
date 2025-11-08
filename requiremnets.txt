@@ -1,0 +1,17 @@
+# Data processing
+pandas
+numpy
+scikit-learn
+
+# API requests
+requests
+
+# Plotting
+matplotlib
+
+# HopsWorks & Kafka
+hopsworks
+confluent-kafka
+
+# Optional: for datetime handling
+python-dateutil
